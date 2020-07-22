@@ -8,8 +8,6 @@ I'm **Michael**, a **Technical Consultant** at UiPath with **2+ years of experie
 
 [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## Contact
 
 * Email: [contact@magarenzo.com](mailto:contact@magarenzo.com)
