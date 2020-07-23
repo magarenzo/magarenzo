@@ -9,4 +9,3 @@ Explore [magarenzo.com](https://magarenzo.com) to get to know me!
 * [Email](mailto:contact@magarenzo.com)
 * [GitHub](https://github.com/magarenzo)
 * [LinkedIn](https://linkedin.com/in/magarenzo)
-* [magarenzo.com](https://magarenzo.com)
