@@ -1,6 +1,6 @@
 # Hi 👋
 
-Hi, I'm **Michael**, a **Technical Consultant** at UiPath with **2+ years of experience** in engineering roles on product teams developing and supporting proprietary software out of the **New York City Metropolitan Area**, and a **Computer Science graduate** of Adelphi University
+I'm **Michael**, a **Technical Consultant** at UiPath with **2+ years of experience** developing, supporting, and advising on proprietary software in product engineering roles
 
 Explore [magarenzo.com](https://magarenzo.com) to get to know me!
 
