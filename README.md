@@ -8,3 +8,5 @@ Explore [magarenzo.com](https://magarenzo.com) to get to know me!
 
 * [Email](mailto:contact@magarenzo.com)
 * [LinkedIn](https://linkedin.com/in/magarenzo)
+
+![Space Logo for UiPath](https://magarenzo.com/images/logo-uipath-space.jpg)
