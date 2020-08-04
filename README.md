@@ -4,9 +4,9 @@ I'm **Michael**, a Technical Consultant at UiPath with **2+ years of experience 
 
 Explore [magarenzo.com](https://magarenzo.com) to get to know me!
 
+![Space Logo for UiPath](https://magarenzo.com/images/logo-uipath-space.jpg)
+
 ## Contact
 
 * [Email](mailto:contact@magarenzo.com)
 * [LinkedIn](https://linkedin.com/in/magarenzo)
-
-![Space Logo for UiPath](https://magarenzo.com/images/logo-uipath-space.jpg)
