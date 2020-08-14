@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Michael, a Technical Consultant at UiPath with 2+ years of experience creating solutions in product engineering, developing, supporting, and advising on enterprise software out of NYC, and a Computer Science graduate of Adelphi University 
+I'm Michael, a Technical Consultant at UiPath with 2+ years of experience creating solutions in product engineering, developing, supporting, and advising on enterprise software in NYC, and a Computer Science graduate of Adelphi University 
 
 ![Space Logo for UiPath](https://magarenzo.com/images/logo-uipath-space.jpg)
 
