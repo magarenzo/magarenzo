@@ -2,8 +2,6 @@
 
 I'm **Michael**, a Technical Advisor at UiPath with **2+ years of experience creating solutions in product engineering**
 
-![Space Logo for UiPath](https://magarenzo.com/images/logo-uipath-space.jpg)
-
 **I develop, support, and consult on enterprise software** in NYC, and am a Computer Science graduate of Adelphi University
 
 Explore [magarenzo.com](https://magarenzo.com) to get to know me!
