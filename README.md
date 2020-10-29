@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm **Michael**, a <span style="color: #FA4616;">Technical Advisor at UiPath</span> with **2.5+ years of experience creating solutions in product engineering**
+I'm **Michael**, a <span style="font-weight: bold;">Technical Advisor at UiPath</span> with **2.5+ years of experience creating solutions in product engineering**
 
 **I develop, support, and consult on enterprise software** in NYC, and am a Computer Science graduate of Adelphi University
 
