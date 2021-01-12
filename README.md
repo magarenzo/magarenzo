@@ -1,8 +1,8 @@
 # Hi 👋
 
-I'm **Michael**, a Technical Advisor at UiPath with almost **3 years of experience creating solutions in product engineering**
+I'm **Michael**, a Technical Advisor at UiPath with almost **3 years of experience creating software solutions for enterprise customers**
 
-**I develop, support, and consult on enterprise software in NYC** and hold a B.S. in Computer Science from Adelphi University 
+**I develop, support, and consult out of NYC** and hold a B.S. in Computer Science from Adelphi University
 
 ## Contact
 
