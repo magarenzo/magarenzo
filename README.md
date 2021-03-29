@@ -8,4 +8,3 @@ I'm **Michael**, a Senior Technical Advisor at UiPath with **3 years of experien
 
 * [Email](mailto:contact@magarenzo.com)
 * [LinkedIn](https://linkedin.com/in/magarenzo)
-* [magarenzo.com](https://magarenzo.com)
