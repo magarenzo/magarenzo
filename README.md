@@ -1,3 +1,5 @@
+<img src="/media/banner.png" alt="LinkedIn banner for UiPath." width="100%" />
+
 # Hi 👋
 
 I'm Michael, a Senior Technical Advisor at UiPath.
