@@ -2,6 +2,4 @@
 
 # Hi 👋
 
-I'm Michael, a Senior Technical Advisor at UiPath.
-
-I enable strategic public sector and commercial customers with customized software solutions. I am experienced in product development, support, consulting, and professional services.
+I'm Michael, a Senior Technical Advisor at UiPath. I enable strategic public sector and commercial customers with customized software solutions. I am experienced in product development, support, consulting, and professional services.
