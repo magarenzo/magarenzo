@@ -1,5 +1,7 @@
 <img src="/media/banner.png" alt="LinkedIn banner for UiPath." width="100%" />
 
-# Hi 👋
+# Hi 👋 My name is Michael
 
-My name is Michael and I work at UiPath as a Senior Technical Advisor. I drive strategic public sector and commercial customers to success with custom solutions for their automation programs. I am experienced in product development, support, consulting, and professional services.
+I am a Senior Technical Advisor at UiPath. I ensure key SLED customers in the Public Sector succeed and grow by building specialized solutions for their automation programs and ensuring business goals are overachieved.
+
+I am experienced in software engineering, product support, business consulting and professional services. I have worked closely with companies across multiple industries including BFSI, Commercial, Federal, Hardware, Retail and SaaS.
