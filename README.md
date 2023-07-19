@@ -1,4 +1,4 @@
-<img src="/media/banner.png" alt="LinkedIn banner for UiPath." width="100%" />
+<img src="/media/banner-updated.jpg" alt="LinkedIn banner for UiPath." width="100%" />
 
 # Hi 👋 My name is Michael
 
