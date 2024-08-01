@@ -2,6 +2,6 @@
 
 # Hi 👋 My name is Michael
 
-I am a Technical Account Manager II at UiPath with a position of Public Trust. I help customers succeed and grow by building specialized solutions for their automation programs, and ensuring business goals are overachieved.
+I am an Automation Program Advisor II at UiPath with a position of Public Trust. I help customers succeed and grow by building specialized solutions for their automation programs, and ensuring business goals are overachieved.
 
-I am experienced in software engineering, product support, technical consulting, and professional services. I have worked closely with companies across multiple industries, including BFSI, Commercial, Federal, Hardware, Public Sector, Retail, SaaS, and SLED.
+I am experienced in software engineering, product support, technical consulting, professional services and customer success. I have worked closely with organizations across multiple industries, including BFSI, Commercial, Hardware, Retail, and SaaS. Most recently, my focus has been in Public Sector, working closely with Civilian agencies and SLED organizations.
