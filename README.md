@@ -2,6 +2,6 @@
 
 # Hi 👋 My name is Michael
 
-I am a Customer Success Manager at UiPath with a position of Public Trust. I help customers succeed by tackling their most mission-critical problems and building specialized solutions for their automation programs.
+I am the Senior Manager of Customer Success for SLED at UiPath. We help State & Local Government and Education institutions tackle their most mission-critical problems through digital transformation with the latest in AI and agentic automation.
 
-I am experienced in software engineering, product support, technical consulting, professional services, and customer success. My specialization is in Public Sector, previously working closely with Federal/Civilian agencies, and now focusing on State & Local Government.
+I am experienced in business management, customer success, technical consulting, software engineering, and product support. My focus is in Public Sector, previously working closely with Federal/Civilian agencies, and now leading Customer Success within SLED.
