@@ -1,4 +1,4 @@
-<img src="/media/2025-agentic-bg.jpg" alt="LinkedIn banner for UiPath." width="100%" />
+<img src="/2025-latest.jpg" alt="LinkedIn banner for UiPath." width="100%" />
 
 # Hi 👋 My name is Michael
 
